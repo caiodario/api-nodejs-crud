@@ -9,7 +9,7 @@ Esse é um projeto desenvolvido para estudo e aprofundamento nos conhecimentos d
 
 <h2>Funcionalidades da API</h2>
 
-A API realiza um CRUD básico, está disponivel no repositório um JSON com a collection para o consumo das rotas da API:
+A API realiza um CRUD básico, está disponivel no repositório um JSON com a collection para o consumo das rotas da API via Postman:
 
 - `Criação de usuário`: Efetua a criação de um novo usuário com os parâmetros obrigatórios de name, email e age
 - `Visualização de usuários`: Retorna todos os usuários cadastrados
